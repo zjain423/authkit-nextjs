@@ -1,6 +1,6 @@
 {
   "name": "authkit-nextjs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "The WorkOS library for Next.js provides convenient helpers for authentication and session management using WorkOS & AuthKit with Next.js.",
   "main": "src/index.ts",
   "scripts": {
