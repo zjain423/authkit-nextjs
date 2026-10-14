@@ -8,3 +8,4 @@ coverage/
 .cache/
 .pytest_cache/
 tmp/
+*.rej
